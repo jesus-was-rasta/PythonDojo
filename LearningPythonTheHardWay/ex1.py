@@ -1,5 +1,6 @@
 __author__ = 'Nando'
-# http://learnpythonthehardway.org/book/ex1.html
+#Exercise 1: A Good First Program
+#http://learnpythonthehardway.org/book/ex1.html
 
 print ("Hello World!")
 print ("Hello Again")
