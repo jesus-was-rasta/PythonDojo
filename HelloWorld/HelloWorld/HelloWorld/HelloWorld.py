@@ -1,2 +1,3 @@
-name = input("What's your name? ")
-print(name)
+firstName = input("What's your first name? ")
+lastName = input("What's your last name? ")
+print("Hello " + firstName + " " + lastName + "!")
