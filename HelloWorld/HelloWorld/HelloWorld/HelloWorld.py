@@ -1,2 +1,1 @@
-print("""Hello World
-            multiline version!""")
+name = input("What's your name? ")
