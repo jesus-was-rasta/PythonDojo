@@ -1,4 +1,6 @@
-#Greetings
+#Greetings exercise
+#Learnt: elif
+
 country = input("Where do you come from?")
 if country == 'ENGLAND':
     print ("Hello")
