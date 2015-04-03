@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2953a20-2c51-48f3-a9fc-c279be7453ea</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Statements\If.py</StartupFile>
+    <StartupFile>Statements\If-Lottery.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Statements\If-Lottery.py" />
     <Compile Include="Statements\If-Greetings.py" />
     <Compile Include="Statements\If.py" />
     <Compile Include="Dates.py" />
