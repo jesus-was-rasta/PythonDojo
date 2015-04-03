@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2953a20-2c51-48f3-a9fc-c279be7453ea</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>If.py</StartupFile>
+    <StartupFile>Statements\If.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,9 +22,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="If.py" />
+    <Compile Include="Statements\If-Greetings.py" />
+    <Compile Include="Statements\If.py" />
     <Compile Include="Dates.py" />
     <Compile Include="HelloWorld.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Statements\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
