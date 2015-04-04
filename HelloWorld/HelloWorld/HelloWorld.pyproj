@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2953a20-2c51-48f3-a9fc-c279be7453ea</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Loops\While.py</StartupFile>
+    <StartupFile>Files\Files.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Files\Files.py" />
     <Compile Include="Loops\While.py" />
     <Compile Include="Turtle.py" />
     <Compile Include="Loops\For.py" />
@@ -33,6 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Loops\" />
+    <Folder Include="Files\" />
     <Folder Include="Statements\" />
   </ItemGroup>
   <PropertyGroup>
