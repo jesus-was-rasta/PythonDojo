@@ -3,4 +3,5 @@
 filename = 'file.txt'
 filemode = 'w'
 
-myfile = open(filename, filemode)
+file = open(filename, filemode)
+file.write('Hello world!')
