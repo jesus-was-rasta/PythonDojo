@@ -1,6 +1,6 @@
 __author__ = 'Nando'
-#Exercise 3: Numbers and Math
-#http://learnpythonthehardway.org/book/ex3.html
+# Exercise 3: Numbers and Math
+# http://learnpythonthehardway.org/book/ex3.html
 
 print("I will now count my chickens:")
 
