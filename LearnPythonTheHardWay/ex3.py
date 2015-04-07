@@ -28,5 +28,9 @@ print("Is it less or equal?", 5 <= -2)
 
 # Adds
 print("====== Study drills ======")
-result = 2/3
-print("2/3 = ", result)
+floatingResult = 2/3
+print("2/3 = %.2f" % floatingResult)
+
+modulusResult = 3%2
+print("3 % 2 = ", modulusResult)
+
